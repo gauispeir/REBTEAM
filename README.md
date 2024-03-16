@@ -1,5 +1,5 @@
 # REBTEAM Members:
 
-Alasbastro, Enalin
-Nacar, Nhovy Jasfer
-Otcheja, Ejie
+• Alasbastro, Enalin
+• Nacar, Nhovy Jasfer
+• Otcheja, Ejie
